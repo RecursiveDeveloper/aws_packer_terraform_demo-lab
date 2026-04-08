@@ -22,7 +22,7 @@ I'm a junior DevOps engineer with some expertise in BackEnd development using Ja
 
 Set up your own CI workflow using Packer to build an AWS AMI with a preconfigured Nodejs app behind a reverse proxy served by an Nginx server. And then deploy an EC2 instance using Terraform, based on the image you previously built.
 
-![image](https://raw.githubusercontent.com/RecursiveDeveloper/static-media-content/refs/heads/main/Packer_Terraform_workflow.png)
+![image](https://raw.githubusercontent.com/RecursiveDeveloper/static-media-content/refs/heads/main/Packer_Terraform-Diagram.png)
 
 ## Tech Stack 
 
