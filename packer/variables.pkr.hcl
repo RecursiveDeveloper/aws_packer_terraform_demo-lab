@@ -13,6 +13,21 @@ variable "manifest-file-name" {
   default = "manifest.json"
 }
 
+variable "environment" {
+  type    = string
+  default = "dev"
+}
+
+variable "author" {
+  type    = string
+  default = "packer"
+}
+
+variable "project" {
+  type    = string
+  default = "demo-project"
+}
+
 ##########################
 
 variable "aws-region" {
